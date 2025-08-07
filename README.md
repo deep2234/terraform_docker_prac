@@ -23,6 +23,11 @@ This project demonstrates Infrastructure as Code (IaC) using **Terraform** to pr
 ````
 
 ---
+## 📸 Screenshots
+
+![screenshot](2025-08-07_19-25.png)
+
+---
 
 ## 🎯 Objective
 
